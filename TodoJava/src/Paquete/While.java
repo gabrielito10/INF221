@@ -1,4 +1,6 @@
-import java.util.*;
+package Paquete;
+
+import java.util.Scanner;
 public class While {
 
 	public static void main(String[] args) {
