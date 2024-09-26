@@ -14,5 +14,4 @@ public class SumaNumeros {
 		else
 			return  n + suma(n - 1);
 	}
-
 }
