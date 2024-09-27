@@ -11,9 +11,9 @@ public class Incremento {
 	//Creando la funcionde recursividad
 	static void incremento(int n)
 	{
-		if (n > 1)
+		if (n >= 1)
 		{
-			incremento(n-1);
+			    incremento(n-1);
 			System.out.print(n);
 		}
 		else
